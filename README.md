@@ -1,4 +1,7 @@
-BatalhaNaval
+Batalha Naval
 ============
 
-Batalha Naval usando Visual Studio 2010
+Batalha Naval (console/prompt) usando Visual Studio 2010.
+
+
+Projeto da Unisinos.
